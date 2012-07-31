@@ -1,0 +1,2 @@
+AuthName "wp-content"
+AuthUserFile "/home2/auralwes/.htpasswds/public_html/wp-content/passwd"
